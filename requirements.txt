@@ -1,0 +1,7 @@
+streamlit
+rdkit
+py3Dmol
+stmol
+ipython_genutils
+matplotlib
+numpy
